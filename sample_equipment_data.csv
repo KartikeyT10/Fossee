@@ -1,0 +1,11 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Pump-A,Pump,100.5,5.2,60.0
+Exchanger-X,Exchanger,50.0,2.1,120.5
+Tank-1,Tank,0.0,1.0,25.0
+Pump-B,Pump,120.0,6.0,58.0
+Reactor-Z,Reactor,10.0,15.0,200.0
+Exchanger-Y,Exchanger,45.0,2.0,115.0
+Valva-1,Valve,0.0,1.0,30.0
+Pump-C,Pump,110.0,5.5,62.0
+Tank-2,Tank,0.0,1.0,26.0
+Reactor-Q,Reactor,12.0,14.5,195.0
