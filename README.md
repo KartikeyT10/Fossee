@@ -4,6 +4,8 @@
 
 Built with performance and scalability in mind, Fossee leverages **Firebase** for cloud services and local processing for immediate data visualization.
 
+🌟 **Live Demo:** [fossee-analytics.web.app](https://fossee-analytics.web.app/)
+
 ---
 
 ## 🚀 Features
